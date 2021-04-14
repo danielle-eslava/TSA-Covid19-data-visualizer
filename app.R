@@ -1,4 +1,4 @@
-	# TSA Covid-19 data visualizer - A PA TSA Data Science & Analytics project
+# TSA Covid-19 data visualizer - A PA TSA Data Science & Analytics project
 
 library(shiny)
 library(plotly)
